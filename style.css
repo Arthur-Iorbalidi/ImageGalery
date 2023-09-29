@@ -93,9 +93,3 @@ header {
         padding: 15px 0;
     }
 }
-@media (max-width: 454px) {
-    .img {
-        width: 100%;
-        height: auto;
-    }
-}
